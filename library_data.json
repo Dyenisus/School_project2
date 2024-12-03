@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "title": "The Call of the Wild",
+      "author": "Jack London",
+      "publish_date": "1903",
+      "isbn": 9781945644511,
+      "is_borrowed": true,
+      "borrower": 15040203
+    },
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "publish_date": "2003",
+      "isbn": 9780452284241,
+      "is_borrowed": true,
+      "borrower": 15040203
+    }
+  ],
+  "users": [
+    {
+      "first_name": "Selim",
+      "last_name": "Altay",
+      "student_id": 15040203
+    },
+    {
+      "first_name": "Aylin",
+      "last_name": "Kaya",
+      "student_id": 17140107
+    }
+  ]
+}
