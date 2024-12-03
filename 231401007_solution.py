@@ -1,10 +1,3 @@
-############ Do not change the assignment code value ############
-assignment_code = 140110202
-name = "Yekta"
-surname = "Soytürk"
-student_id = "231401007"
-### Do not change the variable names above, just fill them in ###
-
 import json
 
 class Book:
